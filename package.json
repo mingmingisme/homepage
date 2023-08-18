@@ -1,0 +1,21 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "mingmingisme's homepage",
+  "author": "mingmingisme",
+  "repository": "https://github.com/mingmingisme/homepage.git",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "set NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  },
+  "dependencies": {
+    "markdown-it": "^8.4.1",
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-katex": "^2.0.3"
+  }
+}
