@@ -13,7 +13,7 @@ socials:
     link: "mailto:zhang_shuming@foxmail.com"
 
 cv: https://github.com/mingmingisme
-bio: Student at TYUT
+bio: Graduate Student at TYUT
 email: "zhang_shuming@foxmail.com"
 ---
 
@@ -21,7 +21,14 @@ email: "zhang_shuming@foxmail.com"
 
 ## About Me
 
-Shuming ZHANG （张书鸣）, currently a *Master Candidate* of Computer Science advised by Prof. Yan Qiang, is with *[College of Computer Science and Technology (Data Science)](https://ccst.tyut.edu.cn/), [Taiyuan University of Technology](https://www.tyut.edu.cn/)*.
+Shuming ZHANG （张书鸣）, currently a **Master Candidate** of Computer Science 
+advised by Prof. Yan Qiang, is with **[College of Computer Science and 
+Technology (Data Science)](https://ccst.tyut.edu.cn/), [Taiyuan University of 
+Technology](https://english.tyut.edu.cn/)**. 
+
+I was recommended to study a Master's degree without entrance examination at 
+the senior year (2021-2022) of my undergraduate. Now my **research intersts** are 
+in medical image processing, deep learning, etc.
 
 ## News
 
@@ -42,23 +49,36 @@ Sept 2015 - Jun 2018
 
 <big>[→ Full list](/projects/)</big>
 
+### Papers
+
+---
 <!-- <ProjectCard> -->
 
-  **Something Awesome like paper or programming project**
+  **Unpaired low-dose computed tomography image denoising using a progressive cyclical convolutional neural network**
 
-  Zhang S., Someone E., *et al*
+  *Qing Li, Runrui Li, Saize Li, Tao Wang, Yubin Cheng, **Shuming Zhang**, et al.*
 
-  This is such a description for Something Awesome that makes it really more awesome than it would have to be.
+  **Abstract**: Background 
+  Reducing the radiation dose from computed tomography (CT) can significantly 
+  reduce the radiation risk to patients. However, low-dose CT (LDCT) suffers 
+  from severe and complex noise interference that affects subsequent 
+  diagnosis and analysis. Recently, deep learning-based methods have shown 
+  superior performance in LDCT image-denoising tasks. However, most methods 
+  ...
 
-  [[PDF](https://www.baidu.com)] [[arXiv](https://arxiv.org)]
+  [[PDF](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.16331)] 
+  [[link](https://doi.org/10.1002/mp.16331)]
+  [DOI:10.1002/mp.16331]
 
 <!-- </ProjectCard> -->
 
 ## Awards & Honors
 
+(WIP)
+
 ### Contests
 
-- First place in **The Very Awesome Contest** <br>
+- First place -- **The Very Awesome Contest** <br>
 *month year*
 
 
@@ -67,7 +87,7 @@ Sept 2015 - Jun 2018
 <style lang="stylus">
 
 .theme-container.home-page .page
-  font-size 14px
+  font-size 18px
   font-family "Book Antiqua", "Times New Roman", "lucida grande", "lucida sans unicode", lucida, "Helvetica Neue", Helvetica, Arial, "宋体", sans-serif;
   p
     margin 0 0 0.5rem

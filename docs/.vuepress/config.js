@@ -11,7 +11,8 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
+      { text: "Blog", link: "https://blog.mingmingisme.site" },
       { text: "GitHub", link: "https://github.com/mingmingisme" },
     ],
-  }
+  },
 };
