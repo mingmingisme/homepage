@@ -8,9 +8,9 @@ socials:
   - title: github
     icon: "/icons/github.svg"
     link: https://github.com/mingmingisme
-  - title: email
-    icon: "/icons/email.svg"
-    link: "mailto:zhang_shuming@foxmail.com"
+  # - title: email
+  #   icon: "/icons/email.svg"
+  #   link: "mailto:zhang_shuming@foxmail.com"
 
 cv: https://github.com/mingmingisme
 bio: Graduate Student at TYUT
@@ -22,13 +22,13 @@ email: "zhang_shuming@foxmail.com"
 ## About Me
 
 Shuming ZHANG （张书鸣）, currently a **Master Candidate** of Computer Science 
-advised by Prof. Yan Qiang, is with **[College of Computer Science and 
-Technology (Data Science)](https://ccst.tyut.edu.cn/), [Taiyuan University of 
-Technology](https://english.tyut.edu.cn/)**. 
+and Technology advised by Prof. Yan Qiang, is with **[College of Computer 
+Science and Technology (Data Science)](https://ccst.tyut.edu.cn/), [Taiyuan 
+University of Technology](https://english.tyut.edu.cn/)**. 
 
 I was recommended to study a Master's degree without entrance examination at 
-the senior year (2021-2022) of my undergraduate. Now my **research intersts** are 
-in medical image processing, deep learning, etc.
+the senior year (2021-2022) of my undergraduate. Now my **research intersts** 
+are in medical image processing, deep learning, etc.
 
 ## News
 
@@ -54,9 +54,13 @@ Sept 2015 - Jun 2018
 ---
 <!-- <ProjectCard> -->
 
-  **Unpaired low-dose computed tomography image denoising using a progressive cyclical convolutional neural network**
+  **Unpaired low-dose computed tomography image denoising using a progressive 
+  cyclical convolutional neural network**
 
-  *Qing Li, Runrui Li, Saize Li, Tao Wang, Yubin Cheng, **Shuming Zhang**, et al.*
+  *Qing Li, Runrui Li, Saize Li, Tao Wang, Yubin Cheng, **Shuming Zhang**, 
+  et al.*
+
+  **[Published Feb 25 2023]**
 
   **Abstract**: Background 
   Reducing the radiation dose from computed tomography (CT) can significantly 
@@ -72,9 +76,41 @@ Sept 2015 - Jun 2018
 
 <!-- </ProjectCard> -->
 
+---
+
+<!-- <ProjectCard> -->
+
+  **PMSG-Net: A priori-guided multilevel graph transformer fusion network for 
+  immunotherapy efficacy prediction**
+
+  *Wanting Yang, Wei Wu, Long Wang, **Shuming Zhang**, Juanjuan Zhao, Yan 
+  Qiang*
+
+  **[Published Sept 2023]**
+
+  **Abstract**: In the case of specific immunotherapy regimens and access to 
+  pre-treatment CT scans, developing reliable, interpretable intelligent image 
+  biomarkers to predict efficacy is essential for physician decision-making 
+  and patient treatment selection. However, varying levels of prognosis show a 
+  similar appearance on CT scans. It becomes challenging to stratify patients 
+  ...
+
+  [[PDF](https://pdf.sciencedirectassets.com/271150/1-s2.0-S0010482523X00110/1-s2.0-S0010482523008363/main.pdf)] 
+  [[link](https://doi.org/10.1016/j.compbiomed.2023.107371)]
+  [DOI:10.1016/j.compbiomed.2023.107371]
+
+<!-- </ProjectCard> -->
+
+---
+
 ## Awards & Honors
 
 (WIP)
+
+### Scholarships
+
+- **First Class** of Academic Excellence Scholarship -- For Graduate Student <br>
+*Sept. 2023*
 
 ### Contests
 
@@ -88,7 +124,9 @@ Sept 2015 - Jun 2018
 
 .theme-container.home-page .page
   font-size 18px
-  font-family "Book Antiqua", "Times New Roman", "lucida grande", "lucida sans unicode", lucida, "Helvetica Neue", Helvetica, Arial, "宋体", sans-serif;
+  font-family "Book Antiqua", "Times New Roman", "lucida grande",
+  "lucida sans unicode", lucida, "Helvetica Neue", Helvetica, Arial, "宋体",
+  sans-serif;
   p
     margin 0 0 0.5rem
   p, ul, ol

@@ -3,7 +3,7 @@ module.exports = {
   description: "Personal homepage for mingmingisme",
   head: [["link", { rel: "icon", href: `/profile.jpg` }]],
   base: "/",
-  dest: "./dist",
+  // dest: "./dist",
 
   themeConfig: {
     search: false,
